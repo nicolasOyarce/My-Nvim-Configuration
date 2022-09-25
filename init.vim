@@ -1,4 +1,4 @@
-"---------------------------------vim config---------------------------- 
+"---------------------------------vim config windows---------------------------- 
 syntax on 
 set number 
 set mouse=a
@@ -83,4 +83,3 @@ colorscheme tokyonight
 "Cerrar tags automaticamente
 let g:closetag_filenames = '*.html,*.xhtml,*.phtml, *.jsx, *.js'
 "-----------------------------------------------------------------
-
